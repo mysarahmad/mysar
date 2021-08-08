@@ -1,4 +1,6 @@
 ### Hi there. I'm Mysar 👋
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 - :zap: I love math and programming
 - 🌱 I’m addicted to learn and grow every day
